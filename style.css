@@ -1,0 +1,67 @@
+.menu {
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    top: 10px;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    padding: 5px;
+    color: aquamarine;
+    font-family: inherit;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: monospace;
+    font-size: 18;
+}
+
+#subscribe {
+    width: 75%;
+    border: 5px;
+    border-radius: 250px;
+    border-color: turquoise;
+    border-style: groove;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50;
+}
+
+#profile {
+    width: 15%;
+    border: 5px;
+    border-radius: 250px;
+    border-style: solid;
+    text-align: center;
+    border-color: cyan;
+}
+
+#minezhex4 {
+    width: 75%;
+    border: 2px;
+    border-radius: 250px;
+    text-align: center;
+    border-style: dashed;
+    border-color: crimson;
+}
+
+#minezhex4pic1 {
+    width: 25%;
+    border: 2px;
+    border-radius: 150px;
+    text-align: left;
+    border-style: outset;
+}
+
+#mail1 {
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+}
